@@ -5,19 +5,19 @@
 \packageTitle{penMlogistic}
 }
 \description{
-\packageDescription{Fitting a penalized M-estimator for Logistic Regression}
+\packageDescription{penMlogistic}
 }
 \details{
 
 The DESCRIPTION file:
 \packageDESCRIPTION{penMlogistic}
 \packageIndices{penMlogistic}
-See penMlogistic function
+~~ An overview of how to use the package, including the most important functions ~~
 }
 \author{
-\packageAuthor{Gonzalo Chebi}
+\packageAuthor{penMlogistic}
 
-Maintainer: \packageMaintainer{Gonzalo Chebi}
+Maintainer: \packageMaintainer{penMlogistic}
 }
 \references{
 ~~ Literature or other references for background information ~~
