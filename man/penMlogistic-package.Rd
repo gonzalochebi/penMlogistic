@@ -1,24 +1,23 @@
 \name{penMlogistic-package}
 \alias{penMlogistic-package}
-\alias{penMlogistic}
 \docType{package}
 \title{
 \packageTitle{penMlogistic}
 }
 \description{
-\packageDescription{penMlogistic}
+\packageDescription{Fitting a penalized M-estimator for Logistic Regression}
 }
 \details{
 
 The DESCRIPTION file:
 \packageDESCRIPTION{penMlogistic}
 \packageIndices{penMlogistic}
-~~ An overview of how to use the package, including the most important functions ~~
+See penMlogistic function
 }
 \author{
-\packageAuthor{penMlogistic}
+\packageAuthor{Gonzalo Chebi}
 
-Maintainer: \packageMaintainer{penMlogistic}
+Maintainer: \packageMaintainer{Gonzalo Chebi}
 }
 \references{
 ~~ Literature or other references for background information ~~
